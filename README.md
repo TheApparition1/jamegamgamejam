@@ -8,7 +8,7 @@ Download Link: TBC
 
 ## Important Note:
 
-Because I created the ALS sets with Ableton Live 12 Suite, there is a possibility that there are Ableton plugins that can't be used on lower versions. If this is the case, make a Github Issue and I will give an alternative.
+Because I created the ALS sets with Ableton Live 12 Suite, there is a possibility that there are Ableton plugins that can't be used on lower versions, such as Lite, Intro or Standard. If this is the case, make a Github Issue and I will give an alternative.
 
 ## Tools Used:
 
