@@ -4,7 +4,7 @@ This is a repository containing source code and assets for our entry into the Ha
 
 We had lots of fun designing this adventure themed platformer game, we hope you enjoy!!
 
-Download Link: TBC
+Download Link: https://apparitioncreatives.itch.io/spinny-guy-forest
 
 ## Important Note:
 
